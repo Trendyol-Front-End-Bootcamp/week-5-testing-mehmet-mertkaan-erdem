@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1628247358639" clover="3.2.0">
+  <project timestamp="1628247358639" name="All files">
+    <metrics statements="41" coveredstatements="38" conditionals="16" coveredconditionals="14" methods="12" coveredmethods="12" elements="69" coveredelements="64" complexity="0" loc="41" ncloc="41" packages="3" files="4" classes="4"/>
+    <package name="divide">
+      <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="divide.js" path="M:\repos\Trendyol Front End Bootcamp\Week V\Sunday\week-5-testing-mehmet-mertkaan-erdem\divide\divide.js">
+        <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="2" count="4" type="cond" truecount="4" falsecount="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="pascalCase">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <file name="toPascalCase.js" path="M:\repos\Trendyol Front End Bootcamp\Week V\Sunday\week-5-testing-mehmet-mertkaan-erdem\pascalCase\toPascalCase.js">
+        <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="5" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="9" type="stmt"/>
+        <line num="14" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="29" coveredstatements="26" conditionals="6" coveredconditionals="4" methods="8" coveredmethods="8"/>
+      <file name="posts-provider.js" path="M:\repos\Trendyol Front End Bootcamp\Week V\Sunday\week-5-testing-mehmet-mertkaan-erdem\services\posts-provider.js">
+        <metrics statements="6" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+      <file name="posts-services.js" path="M:\repos\Trendyol Front End Bootcamp\Week V\Sunday\week-5-testing-mehmet-mertkaan-erdem\services\posts-services.js">
+        <metrics statements="23" coveredstatements="21" conditionals="6" coveredconditionals="4" methods="6" coveredmethods="6"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="18" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="30" count="3" type="stmt"/>
+        <line num="31" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="51" count="4" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
